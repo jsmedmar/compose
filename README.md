@@ -1,7 +1,8 @@
 # compose
 
+[![Youtube List][youtube_badge]][download]
+[![Download Zip][youtube_badge]][compose list]
 [![License: CC BY 4.0][licence_badge]][`CC-BY-4.0`]
-[![Youtube List][youtube_badge]][compose list]
 [![GitHub repo size in bytes][size_badge]][compose]
 
 🎻 A project for open source [music compositions][compose list]!
@@ -27,7 +28,6 @@ Would you like to modify works or add your own? Contributions and forks are enco
 
 ## No. 2
 
-- **title**: panic attack
 - **authors**: [@jsmedmar]
 
 [![No. 2 - Juan Santiago Medina](http://img.youtube.com/vi/8Bamg0A0DRU/0.jpg)](http://www.youtube.com/watch?v=8Bamg0A0DRU "No. 2 - Juan Santiago Medina")
@@ -54,6 +54,7 @@ Would you like to modify works or add your own? Contributions and forks are enco
 [![No. 8 - Juan Santiago Medina](http://img.youtube.com/vi/k3WfBPCvlwU/0.jpg)](http://www.youtube.com/watch?v=k3WfBPCvlwU "No. 8 - Juan Santiago Medina")
 
 <!-- references -->
+[download]: https://github.com/jsmedmar/compose/archive/master.zip
 [compose]: [https://github.com/jsmedmar/compose]
 [compose list]: https://www.youtube.com/watch?v=aK7TXRL0oi0&list=PL-NqvsAykP-DU6AVwCNT6T5GZLMiiyj80
 [@jsmedmar]: https://github.com/jsmedmar
@@ -64,3 +65,4 @@ Would you like to modify works or add your own? Contributions and forks are enco
 [licence_badge]: https://img.shields.io/badge/license-CC%20BY%204.0-brightgreen.svg
 [size_badge]: https://img.shields.io/github/repo-size/jsmedmar/compose.svg
 [youtube_badge]: https://img.shields.io/badge/youtube-%F0%9F%8E%A7-red.svg
+[download_badge]: https://img.shields.io/badge/download-zip%20%F0%9F%92%BE-brightgreen.svg
