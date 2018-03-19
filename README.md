@@ -1,6 +1,6 @@
 # compose
 
-[![Youtube List][youtube_badge]][download]
+[![Youtube List][download_badge]][download]
 [![Download Zip][youtube_badge]][compose list]
 [![License: CC BY 4.0][licence_badge]][`CC-BY-4.0`]
 [![GitHub repo size in bytes][size_badge]][compose]
