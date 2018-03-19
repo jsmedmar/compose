@@ -1,9 +1,9 @@
 # compose
 
-[![Youtube List][download_badge]][download]
-[![Download Zip][youtube_badge]][compose list]
+[![Youtube list][youtube_badge]][compose list]
+[![Download zip][download_badge]][download]
 [![License: CC BY 4.0][licence_badge]][`CC-BY-4.0`]
-[![GitHub repo size in bytes][size_badge]][compose]
+[![Repo size in bytes][size_badge]][compose]
 
 🎻 A project for open source [music compositions][compose list]!
 
