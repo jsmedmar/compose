@@ -12,7 +12,7 @@ Every work hosted here is available on a [`CC-BY-4.0`] license which permits alm
 
 ## Contributing
 
-Would you like to modify works or add your own? Contributions and forks are encouraged (links to new versions will be added to this readme). Each subdirectory inside [compose](./compose) represents a music work. This project expects light-weight, shareable formats such as `midi` or `.band`, they should only use software instruments and shouldn't depend on heavier media files such as recordings.
+Would you like to modify works or add your own? Contributions and forks are encouraged (links to new versions will be added to this readme). This project expects light-weight, shareable formats such as `midi` or `.band`, they should only use software instruments and shouldn't depend on heavier media files such as recordings.
 
 <!-- See http://embedyoutube.org/ -->
 
@@ -21,12 +21,13 @@ Would you like to modify works or add your own? Contributions and forks are enco
 - **title**: buena noche
 - **authors**: [@jsmedmar]
 - **image**: [@tommdg]
+- 𝄢 **[sheet music](./compose/1/1.pdf)**
 
 [![No. 1 - Juan Santiago Medina](http://img.youtube.com/vi/aK7TXRL0oi0/0.jpg)](http://www.youtube.com/watch?v=aK7TXRL0oi0 "No. 1 - Juan Santiago Medina")
 
 ## No. 2
 
-- **title**: panick attack
+- **title**: panic attack
 - **authors**: [@jsmedmar]
 
 [![No. 2 - Juan Santiago Medina](http://img.youtube.com/vi/8Bamg0A0DRU/0.jpg)](http://www.youtube.com/watch?v=8Bamg0A0DRU "No. 2 - Juan Santiago Medina")
@@ -34,6 +35,7 @@ Would you like to modify works or add your own? Contributions and forks are enco
 ## No. 10
 
 - **authors**: [@jsmedmar]
+- 𝄢 **[sheet music](./compose/10/10.pdf)**
 
 [![No. 10 - Juan Santiago Medina](http://img.youtube.com/vi/wJsCiboi6i4/0.jpg)](http://www.youtube.com/watch?v=wJsCiboi6i4 "No. 9 - Juan Santiago Medina")
 
