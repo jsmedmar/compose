@@ -30,7 +30,7 @@ Would you like to modify works or add your own? Contributions and forks are enco
 
 - **authors**: [@jsmedmar]
 
-[![No. 2 - Juan Santiago Medina](http://img.youtube.com/vi/8Bamg0A0DRU/0.jpg)](http://www.youtube.com/watch?v=8Bamg0A0DRU "No. 2 - Juan Santiago Medina")
+[![No. 2 - Juan Santiago Medina](http://img.youtube.com/vi/5J2tHhCEvrw/0.jpg)](http://www.youtube.com/watch?v=5J2tHhCEvrw "No. 2 - Juan Santiago Medina")
 
 ## No. 10
 
@@ -64,5 +64,5 @@ Would you like to modify works or add your own? Contributions and forks are enco
 <!-- badges -->
 [licence_badge]: https://img.shields.io/badge/license-CC%20BY%204.0-brightgreen.svg
 [size_badge]: https://img.shields.io/github/repo-size/jsmedmar/compose.svg
-[youtube_badge]: https://img.shields.io/badge/youtube-%F0%9F%8E%A7-red.svg
+[youtube_badge]: https://img.shields.io/badge/listen-%F0%9F%8E%A7-red.svg
 [download_badge]: https://img.shields.io/badge/download-zip%20%F0%9F%92%BE-brightgreen.svg
